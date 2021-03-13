@@ -1,0 +1,16 @@
+* {
+    padding: 20px;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+
+
+.content {
+    text-align: center;
+}
+
